@@ -8,7 +8,7 @@ Implementation of a very deep CNN model for image super resolution, and small ad
 
 Please find in a pdf format the report for this project.
 
-Here it the paper we build our work on, and added few features (like multi-image input option):
+Here is the paper we based our work on, and added few features (like multi-image input option):
 Accurate Image Super-Resolution Using Very Deep Convolutional Networks
 [arXiv link](https://arxiv.org/pdf/1511.04587.pdf)
 
