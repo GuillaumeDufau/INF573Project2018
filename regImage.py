@@ -26,8 +26,3 @@ for i in onlyfiles:
     cv.waitKey(0)
 
 cv.waitKey(0)
-
-
-
-
-
